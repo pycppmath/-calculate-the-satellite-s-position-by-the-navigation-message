@@ -14,3 +14,5 @@ invoking function **readatandcomp.m**. Parameters include the headless broadcast
 运行函数，得出结果。
 
 Run the function and get the result.
+
+*感谢**moein mehrtash**在MATLAB论坛里分享的UTC2GPST函数，原地址：https://ww2.mathworks.cn/matlabcentral/fileexchange/41364-gps-navigation-toolbox*
