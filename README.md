@@ -15,9 +15,9 @@ invoking function **readatandcomp.m**. Parameters include the headless broadcast
 
 Run the function and get the result.
 
-此外，程序以打包成独立的可执行文件，附在下面的链接里。
+此外，程序已打包成独立的可执行文件，附在下面的链接里。
 
-In addition, the program is packaged as a separate executable, attached to the link below.
+In addition, the program has been packaged as a separate executable, attached to the link below.
 
 链接：https://pan.baidu.com/s/1nejy129pt4VMcJASTa85oA 
 
