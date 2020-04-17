@@ -27,7 +27,7 @@ In addition, the program has been packaged as a separate executable, attached to
 
 Contect : 1012181115@cugb.edu.cn
 
-###附第一次更新Attached is the first update
+### 附第一次更新Attached is the first update
 
 增加文件选择功能
 
