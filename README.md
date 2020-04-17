@@ -29,6 +29,6 @@ Contect : 1012181115@cugb.edu.cn
 
 ### 附第一次更新Attached is the first update
 
-增加文件选择功能
+增加文件选择功能，并去除一些无效语句。
 
-Added file selection function
+Added file selection function, and remove some invalid statements.
